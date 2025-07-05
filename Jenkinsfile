@@ -12,7 +12,7 @@
 
 
 //with multi branch pipelines.
-@Library('jenkins-shared-library')
+@Library('expense-jenkins-shared-library')
 
 //create variable of map type and set the values
 def configMap =[
